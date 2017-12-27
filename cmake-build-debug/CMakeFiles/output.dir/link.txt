@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -g   CMakeFiles/output.dir/main.cpp.o  -o output -lglfw -lGLEW -lGLU -lGL 

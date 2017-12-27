@@ -1,0 +1,3 @@
+/home/kbg/CLionProjects/OpenGLPractise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kbg/CLionProjects/OpenGLPractise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kbg/CLionProjects/OpenGLPractise/cmake-build-debug/CMakeFiles/output.dir
